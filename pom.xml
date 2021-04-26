@@ -947,7 +947,7 @@
 
         <javax.mail.version>1.4.4</javax.mail.version>
         <log4j.version>1.2.17</log4j.version>
-        <commons-io.version>2.2</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <google.guava.version>16.0.1</google.guava.version>
         <testng.version>6.8.5</testng.version>
         <carbon.metrics.version>1.2.1</carbon.metrics.version>
